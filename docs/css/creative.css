@@ -10597,3 +10597,8 @@ hr.light {
 .page-section {
   padding: 8rem 0;
 }
+
+.row-outline {
+  border: 1px solid black;
+  height: 300px;
+}

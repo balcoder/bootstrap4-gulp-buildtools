@@ -1,22 +1,23 @@
 {
-    "title": "Fcos",
-    "name": "fcos-pages",
-    "version": "1.0.1",
+    "title": "Bootstrap4 build tools",
+    "name": "bootstrap 4",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Fcos pages website",
+    "description": "Bootstrap4 build tools",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
         "theme",
-        "template"
+        "template",
+        "bootstrap 4"
     ],
-    "homepage": "https://fcos.ie",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/balcoder/fcos-v2",
+        "url": "",
         "email": ""
     },
     "license": "MIT",
@@ -26,7 +27,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/balcoder/fcos-v2.git"
+        "url": ""
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.2",
